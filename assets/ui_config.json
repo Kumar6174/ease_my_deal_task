@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "type": "delivery",
+      "delivery_address": "201301"
+    },
+    {
+      "type": "banner",
+      "banners": [
+        {
+          "title": "Furniture Utsav",
+          "subtitle": "Flat 15% OFF",
+          "image": "assets/banner.jpg"
+        },
+        {
+          "title": "Monsoon Sale",
+          "subtitle": "Upto 40% OFF on Sofas",
+          "image": "assets/banner.jpg"
+        }
+      ]
+    },
+    {
+      "type": "categories",
+      "categories": [
+        { "icon": "assets/living_room.png", "label": "Living Room" },
+        { "icon": "assets/bedroom.png", "label": "Bedroom" },
+        { "icon": "assets/storage.png", "label": "Storage" },
+        { "icon": "assets/study.png", "label": "Study" },
+        { "icon": "assets/dining.png", "label": "Dining" },
+        { "icon": "assets/tables.png", "label": "Tables" },
+        { "icon": "assets/chairs.png", "label": "Chairs" },
+        { "icon": "assets/z_rated.png", "label": "Z Rated" }
+      ]
+    },
+    {
+      "type": "offers",
+      "title": "Offers & Discounts",
+      "offers": [
+        {
+          "title": "Extra ₹100 off on SBI",
+          "subtitle": "Applicable on SBI Credit Cards. No code required."
+        },
+        {
+          "title": "Get flat 15% off",
+          "subtitle": "Use coupon XYZ15 during checkout."
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Deals of the Day",
+      "products": [
+        {
+          "name": "Flex 3 Seater Magic",
+          "price": 10499,
+          "discount": 72,
+          "image": "assets/sofa1.jpg"
+        },
+        {
+          "name": "Flex Fabric 3 Seater",
+          "price": 9499,
+          "discount": 74,
+          "image": "assets/sofa2.jpg"
+        },
+        {
+          "name": "Premium Wooden Chair",
+          "price": 2999,
+          "discount": 50,
+          "image": "assets/chairs.png"
+        }
+      ]
+    }
+  ]
+}
